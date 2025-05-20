@@ -1,28 +1,33 @@
-👋🏼 Hi, I’m Durga Prasad — a Data Architect with 20+ years of experience building enterprise-scale data solutions across cloud platforms like AWS and Azure. My current focus includes Databricks, Power BI along with solution design and technical leadership in data architecture.
+# 👋🏼 Hi, I’m Durga Prasad
 
-Beyond Data & Report design, I specialize in **technology and business content creation**, including user guides, solution documentation, and branding-focused deliverables. I combine my technical expertise with strong design sensibilities — crafting engaging documents using tools like **Adobe InDesign, Canva, and other design platforms** to communicate complex ideas clearly and effectively.
+I'm a seasoned **Data Architect** with over 20 years of experience in designing and implementing enterprise-scale data solutions across cloud platforms like **AWS** and **Azure**. My current focus areas include **Databricks**, **Power BI**, and **semantic modeling**, where I specialize in solution design and technical leadership in data architecture.
 
-My work sits at the intersection of data, design, and human experience — ensuring solutions are not only robust, but also understandable, impactful, and user-centered.
+Beyond data engineering, I have a passion for **technical content creation**. I craft comprehensive user guides, solution documentation, and branding materials that bridge the gap between complex technical concepts and user-friendly communication. Utilizing tools like **Adobe InDesign**, **Canva**, and other design platforms, I ensure that documentation is both informative and visually engaging.
 
-Beyond IT, I’m a lifelong student of Psychology, Vedic Astrology, Ayurveda, and Indian Philosophy — weaving together ancient wisdom and modern data science to understand patterns in both people and systems.
+My work lies at the intersection of data, design, and human experience, aiming to deliver solutions that are robust, understandable, impactful, and user-centered.
 
-Also an Artist with skills in Painting, Scultpture and Photography with heavy interest in UI/UX.
+Outside the realm of IT, I'm a lifelong student of **Psychology**, **Vedic Astrology**, **Ayurveda**, and **Indian Philosophy**. I strive to integrate ancient wisdom with modern data science to uncover patterns in both systems and human behavior.
 
-🛠️ Tools I Use: PySpark · SQL · DAX · M Code · Databricks · Microsoft Fabric · Git · Figma · Canva 
-🧠 Interests: Cognitive Science · Human-AI Interaction · Karma Theory · Integrative Healing  
+🎨 In my artistic pursuits, I engage in **painting** and **sculpture**, exploring creativity beyond the digital space.
 
-📚 Currently:  
-- Completing my Master’s in Psychology  
-- Designing an integrative framework for holistic guidance using data, behavior, and ancient systems  
-- Exploring ways to mentor the next generation using multi-domain thinking  
+---
 
-- Data Architect | Power BI & Databricks Specialist
-- 20+ Years in Data, Analytics, and Cloud Platforms
-- 🚀 Passionate about building scalable analytics solutions
+## 🛠️ Tools & Technologies
 
-## 🛠️ Skills
-- Power BI | DAX | Data Modeling
-- Databricks | PySpark | Delta Lake
-- Data Governance | ETL | SQL
+- **Cloud Platforms**: AWS, Azure
+- **Data Engineering**: Databricks, PySpark, SQL
+- **Business Intelligence**: Power BI, DAX, M Code
+- **Design Tools**: Adobe InDesign, Canva
+- **Others**: Git, Jupyter, VS Code
 
-Project details ... soon here....
+---
+
+## 📚 Currently Exploring
+
+- Advancing my studies in **Psychology**
+- Developing integrative frameworks that combine data science with traditional knowledge systems
+- Mentoring and guiding the next generation through multi-disciplinary approaches
+
+---
+
+Feel free to connect or reach out for collaborations that blend technology, design, and holistic understanding.
