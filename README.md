@@ -1,3 +1,5 @@
+<img src="painting1.jpg" alt="Durga Prasad Banner" width="100%">
+
 # 👋🏼 Hi, I’m Durga Prasad
 
 I'm a seasoned **Data Architect** with over 20 years of experience in designing and implementing enterprise-scale data solutions across cloud platforms like **AWS** and **Azure**. My current focus areas include **Databricks**, **Power BI**, and **semantic modeling**, where I specialize in solution design and technical leadership in data architecture.
